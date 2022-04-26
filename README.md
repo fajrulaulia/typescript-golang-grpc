@@ -38,7 +38,7 @@ see a `Makefile` on two project folder(`webapi` and `webservice`), run `make ima
 
 ## Example
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/fajrulaulia/typescript-golang-grpc/blob/master/screenrecorder/screen-capture.gif?raw=true)
 
 
 
