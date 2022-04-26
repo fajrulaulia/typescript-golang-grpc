@@ -36,3 +36,9 @@ run in development if you changes in local machine.
 see a `Makefile` on two project folder(`webapi` and `webservice`), run `make image-build` to build image, then push to regitry or you can adding in docker-compose, just make it communicate by network, for more detail, you can check on `docker-compose.yaml`
 
 
+## Example
+
+<video src='https://github.com/fajrulaulia/typescript-golang-grpc/raw/master/screenrecorder/screen-capture.webm' width=180/>
+
+
+
