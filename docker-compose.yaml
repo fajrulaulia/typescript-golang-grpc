@@ -1,0 +1,24 @@
+version: "3.0"
+
+services:
+    grpc:
+      container_name: "fajrul-grpc"
+      image: webservice-grpc:latest
+      networks:
+        - fajrul-networks
+
+    rest:
+      container_name: "fajrul-rest"
+      image: webapi-rest:latest
+      environment:
+        PORT: 8432
+        WEBSERVICE: grpc:8080
+      ports:
+        - 8080:8432
+      depends_on:
+        - grpc
+      networks:
+        - fajrul-networks
+
+networks:
+  fajrul-networks:
