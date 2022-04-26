@@ -38,7 +38,8 @@ see a `Makefile` on two project folder(`webapi` and `webservice`), run `make ima
 
 ## Example
 
-<video src='https://github.com/fajrulaulia/typescript-golang-grpc/raw/master/screenrecorder/screen-capture.webm' width=180/>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 
